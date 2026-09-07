@@ -1,11 +1,11 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.CardDeals-LLC/carddeals-mcp",
+  "name": "io.github.cello305/carddeals-mcp",
   "title": "CardDeals Live Gift Card Deals",
   "description": "Search current U.S. gift-card discounts from validated providers. Anonymous and read-only.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
-    "url": "https://github.com/CardDeals-LLC/carddeals-mcp",
+    "url": "https://github.com/cello305/carddeals-mcp",
     "source": "github"
   },
   "websiteUrl": "https://carddeals.co/mcp",
